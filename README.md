@@ -2,7 +2,7 @@
 ### Hi there 👋
 -->
 
-Life is like a Getting Started button, you never know what you're gonna get
+cofounder of armstrong the mutual learning platform
 
 ![](https://komarev.com/ghpvc/?username=Musty260)
 
