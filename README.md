@@ -18,6 +18,8 @@ cofounder of armstrong the mutual learning platform
   <a href="https://devpost.com/software/armstrong-the-mutual-learning-platform"><img src="https://img.shields.io/badge/Made%20In-Angel%20Hacks-yellow" alt="badge" /></a>
 
   <a href="https://devpost.com/software/amnis"><img src="https://img.shields.io/badge/Made%20In-DeltaHacks-371b32" alt="badge" /></a>
+  
+  <a href="https://devpost.com/software/mockchain-learning-decentralized"><img src="https://img.shields.io/badge/Made%20In-HooHacks-002868" alt="badge" /></a>
  </details>
 
 <!--
