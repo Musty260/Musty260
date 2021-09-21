@@ -4,7 +4,7 @@
 
 cofounder of armstrong the mutual learning platform
 
-[personal website lol](https://www.musty.me)
+[personal website lol](https://www.musty.cc)
 
 ![](https://komarev.com/ghpvc/?username=Musty260)
 
